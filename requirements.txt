@@ -1,5 +1,0 @@
-ccxt
-pandas
-requests
-numpy
-python-binance
